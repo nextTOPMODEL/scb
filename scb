@@ -2,19 +2,19 @@
 	"sets": [{
 		"added": 1529017651,
 		"normal": {
-			"count": 8,
+			"count": 10,
 			"std": "0.00",
 			"price": "0.71",
 			"avg": "0.07",
 			"quantity": 57091
 		},
-		"appid": "1195670",
+		"appid": "876740",
 		"discount": "0.30",
 		"game": "Mysterious",
 		"bgs_avg": "0.00",
-		"true_count": 8,
+		"true_count": 10,
 		"foil": {
-			"count": 8,
+			"count": 10,
 			"std": "0.02",
 			"price": "2.35",
 			"avg": "0.24",
